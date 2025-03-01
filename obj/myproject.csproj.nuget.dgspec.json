@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/isakovghse/C#_files/GitTest/For_Seminar/ForSeminar/myproject.csproj": {}
+    "/Users/isakovghse/C#_files/For_Seminar/myproject.csproj": {}
   },
   "projects": {
-    "/Users/isakovghse/C#_files/GitTest/For_Seminar/ForSeminar/myproject.csproj": {
+    "/Users/isakovghse/C#_files/For_Seminar/myproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/isakovghse/C#_files/GitTest/For_Seminar/ForSeminar/myproject.csproj",
+        "projectUniqueName": "/Users/isakovghse/C#_files/For_Seminar/myproject.csproj",
         "projectName": "myproject",
-        "projectPath": "/Users/isakovghse/C#_files/GitTest/For_Seminar/ForSeminar/myproject.csproj",
+        "projectPath": "/Users/isakovghse/C#_files/For_Seminar/myproject.csproj",
         "packagesPath": "/Users/isakovghse/.nuget/packages/",
-        "outputPath": "/Users/isakovghse/C#_files/GitTest/For_Seminar/ForSeminar/obj/",
+        "outputPath": "/Users/isakovghse/C#_files/For_Seminar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/isakovghse/.nuget/NuGet/NuGet.Config"
